@@ -23,10 +23,7 @@ while(t>0){
     int diff =s-n;
         cout<<n-diff<<endl;
    }
-    
-    
-    
-    
+   
 
     t--;
 }
